@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deki1973
 - 👀 I’m interested in Python, MySQL, Node.js and C#.
-- 🌱 I’m currently learning Python TKInter.
+- 🌱 I’m currently learning Qt Designer
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
