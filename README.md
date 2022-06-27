@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deki1973
-- 👀 I’m interested in Python, Java, MySQL and AI.
+- 👀 I’m interested in Python, Django, Java, MySQL and AI.
 - 🌱 I’m currently Python
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
