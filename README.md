@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deki1973
-- 👀 I’m interested in Python, Django, Java, MySQL and AI.
-- 🌱 I’m currently Python
+- 👀 I’m interested in Python, Java, Django, Flask, sqlite3, MySQL and AI.
+- 🌱 I’m currently Flask
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
