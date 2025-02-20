@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deki1973
-- 👀 I’m interested in SpringBoot, PostgreSql, JavaScript and React
+- 👀 I’m interested in SpringBoot, PostgreSql, HTML, CSS, JavaScript and React
 - 🌱 I’m currently SpringBoot
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
