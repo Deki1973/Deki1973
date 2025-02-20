@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deki1973
-- 👀 I’m interested in JavaScript, React, Java, and MySQL.
-- 🌱 I’m currently FrontEnd
+- 👀 I’m interested in SpringBoot, PostgreSql, JavaScript and React
+- 🌱 I’m currently SpringBoot
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
